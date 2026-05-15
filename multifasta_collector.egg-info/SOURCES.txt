@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-multifasta_collector/__init__.py
-multifasta_collector/tool.py
-multifasta_collector.egg-info/PKG-INFO
-multifasta_collector.egg-info/SOURCES.txt
-multifasta_collector.egg-info/dependency_links.txt
-multifasta_collector.egg-info/top_level.txt
