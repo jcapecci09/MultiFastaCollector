@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: multifasta-collector
+Version: 1.0
+Summary: A simple tool to parse multi-FASTA files into Python dictionaries.
+Author: Jimmy Capecci
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# MultiFastaCollector
+A simple Python tool for collecting and organizing multi-FASTA sequence data into convenient dictionary structures.

@@ -5,7 +5,7 @@ Author: Jimmy Capecci
 """
 
 
-def multi_fasta_collector(fasta: str) -> dict[str, str]:
+def mfc(fasta: str) -> dict[str, str]:
     """Collects mulit-fasta files and turns into dictionary
 
     :param fasta: Path to multi-fasta file

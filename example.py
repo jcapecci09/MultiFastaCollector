@@ -1,4 +1,4 @@
-from MultiFastaCollector.tool import multi_fasta_collector as mfc
+from multifasta_collector.tool import mfc
 
 # collect sequence
 d = mfc('multifasta.txt')
@@ -14,4 +14,3 @@ print()
 
 # Show last sequence and its header
 print(f'header: {headers[-1]}\nsequence: {sequences[-1]}')
-
