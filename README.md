@@ -34,7 +34,7 @@ pip install git+https://github.com/jcapecci09/MultiFastaCollector.git
 
 ## Usage instructions
 
-Ensure the FASTA file is in your current working directory (or provide a full file path). In this we use the fasta provided `multifasta.txt`. 
+Ensure the FASTA file is in your current working directory (or provide a full file path). In this we use the FASTA provided in the repo: `multifasta.txt`. 
 
 ```python
 import multifasta_collector as mfc
