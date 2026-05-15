@@ -27,7 +27,8 @@ GELLQAVPLADSFRHLYPNTPYAYTFWTYMMNARSKNVGWRLDYFLLSHSLLPALCDSKI
 RSKALGSDHCPITLYLAL
 ```
 
-## Install
+## Installation
+Requires Git to be installed on your system
 ```bash
 pip install git+https://github.com/jcapecci09/MultiFastaCollector.git
 ```
