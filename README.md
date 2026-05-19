@@ -32,7 +32,7 @@ RSKALGSDHCPITLYLAL
 ## Installation
 Disclaimer: Requires Git to be installed on your system
 
-The run this comand
+Then run this comand
 ```bash
 pip install git+https://github.com/jcapecci09/MultiFastaCollector.git
 ```
